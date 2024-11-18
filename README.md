@@ -65,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
- ![Uploading WhatsApp Image 2024-11-13 at 07.14.38_a6824529.jpg…]()
+
+![WhatsApp Image 2024-11-18 at 21 00 09_88247603](https://github.com/user-attachments/assets/cd3dfd54-d9ed-44ac-a7bc-34ee6c1e68d5)
 
 
 
